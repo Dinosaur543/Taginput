@@ -14,7 +14,7 @@ import TagInput from './TagInput';
 function App() {
   return (
     <div style={{ padding: '20px' }}>
-      <h1>My Tag Input Demo</h1>
+      <h1>Tag Input Demo</h1>
       <TagInput 
         placeholder="Placeholder"
         maxTags={10}
