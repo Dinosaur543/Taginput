@@ -30,3 +30,4 @@ Example behavior
 2. prevent space such as " tag3 " -> [tag3]
 3. duplicate tag will ignore
 4. meet max tag will not allow add more tag
+
